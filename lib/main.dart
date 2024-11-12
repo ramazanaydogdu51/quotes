@@ -14,7 +14,7 @@ class Quotelist extends StatefulWidget {
 
 class _QuotelistState extends State<Quotelist> {
 
-  List <String> quotesList=['first line','second line','third line','fourth line','fifth','sixth'];
+  List <String> quotesList=['first linee','second line','third line','fourth line','fifth','sixth'];
 
   @override
   Widget build(BuildContext context) {
